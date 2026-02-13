@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS admin_config;
+DROP TABLE IF EXISTS deal_translations;
+DROP TABLE IF EXISTS deals;
+DROP TABLE IF EXISTS users;
+DROP TYPE IF EXISTS user_role;
+DROP TYPE IF EXISTS deal_status;
+DROP TABLE IF EXISTS deal_types;
+DROP TABLE IF EXISTS merchants;
+DROP TABLE IF EXISTS categories;
+DROP TABLE IF EXISTS cities;
+DROP TABLE IF EXISTS countries;

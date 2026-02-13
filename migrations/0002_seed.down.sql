@@ -1,0 +1,9 @@
+DELETE FROM admin_config;
+DELETE FROM deal_translations;
+DELETE FROM deals;
+DELETE FROM users;
+DELETE FROM merchants;
+DELETE FROM deal_types;
+DELETE FROM categories;
+DELETE FROM cities;
+DELETE FROM countries;
